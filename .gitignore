@@ -41,3 +41,19 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+ShooterCompat.ini
+backups/ShooterEngine_bak_1.ini
+*.orig
+ShooterEngine.ini.tweak1
+ShooterEngine.ini.tweak2
+ShooterEngine.ini.tweak3
+ShooterUIDebug.ini
+stutterfix.txt
+ShooterTesting.ini
+ShooterEngine.inibesttweak-prelodmess
+ShooterServerConfig.ini
+ShooterEngine.inichickwaffv2.3
+ShooterEngine.inikroadjune20
+ShooterGame.ini
+ShooterInput.ini
+ShooterLightmass.ini
